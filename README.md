@@ -1,6 +1,5 @@
 # SAMPro3D-trial
 3D point cloud processing is an expensive process.  
-The following is a simple yet brilliant solution:    
+A simple solution is:    
 SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation
-The original paper:
 https://mutianxu.github.io/sampro3d/
