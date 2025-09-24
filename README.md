@@ -15,19 +15,18 @@
 ```
 
 SAMPro3D-trial/
-├── data/                     # Place your input files here (e.g., room.ply, room.xyz)
-│   ├── room.ply              # Example 3D point cloud input
-│   └── room.xyz              # Scene point cloud for matching
-├── rgb\_images/               # Captured RGB images (auto-created by the script)
-├── depth\_images/             # Captured depth images (auto-created by the script)
+├── room.ply                  # Example 3D point cloud input
+├── room.xyz                  # Scene point cloud for matching
+├── rgb_images/               # Captured RGB images (auto-created by the script)
+├── depth_images/             # Captured depth images (auto-created by the script)
 ├── params/                   # Saved camera parameters (auto-created by the script)
-├── saved\_images/             # 2D projection plots (auto-created by the script)
+├── saved_images/             # 2D projection plots (auto-created by the script)
 ├── configs/                  # Configuration files for SAM2
-│   └── sam2\_hiera\_l.yaml
+│   └── sam2_hiera_l.yaml
 ├── checkpoints/              # Pre-trained SAM2 weights
-│   └── sam2\_hiera\_large.pt
+│   └── sam2_hiera_large.pt
 ├── src/
-│   └── sampro3d\_trial.py     # Main script containing all processing steps and functions
+│   └── sampro3d_trial.py     # Main script containing all processing steps and functions
 ├── requirements.txt          # Dependencies list
 └── README.md                 # Project documentation
 
