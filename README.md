@@ -21,12 +21,9 @@ SAMPro3D-trial/
 ├── depth_images/             # Captured depth images (auto-created by the script)
 ├── params/                   # Saved camera parameters (auto-created by the script)
 ├── saved_images/             # 2D projection plots (auto-created by the script)
-├── configs/                  # Configuration files for SAM2
-│   └── sam2_hiera_l.yaml
-├── checkpoints/              # Pre-trained SAM2 weights
-│   └── sam2_hiera_large.pt
-├── src/
-│   └── sampro3d_trial.py     # Main script containing all processing steps and functions
+├── sam2_hiera_l.yaml         # Configuration files for SAM2
+├── sam2_hiera_large.pt       # Pre-trained SAM2 weights
+├── main.py     # Main script containing all processing steps and functions
 ├── requirements.txt          # Dependencies list
 └── README.md                 # Project documentation
 
