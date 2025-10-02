@@ -3,6 +3,10 @@
 > **3D point cloud processing is often computationally expensive.**  
 > This repository contains my customized implementation of **SAMPro3D** for efficient and flexible 3D instance segmentation experiments.
 
+
+https://github.com/user-attachments/assets/1b519fda-18f4-4163-9f64-f5433003dbbc
+
+
 ---
 
 ## 📄 Original Paper  
